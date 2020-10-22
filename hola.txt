@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hola que tal molt bé jo genial
+
+hola que tal molt bé jo
+>>>>>>> branch1
